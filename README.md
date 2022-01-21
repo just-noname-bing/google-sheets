@@ -1,4 +1,5 @@
 # google-sheets
-example
 
-create ```google-credentials.json``` file in root directory
+## Files
+ ```google-credentials.json``` 
+ 
